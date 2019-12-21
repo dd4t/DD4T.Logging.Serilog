@@ -2,7 +2,7 @@
 <package xmlns:nuget="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>DD4T.Logging.Serilog</id>
-    <version>2.1.0.-alpha</version>
+    <version></version>
     <authors>DD4T Community</authors>
     <owners>DD4T Community</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -11,9 +11,9 @@
     </releaseNotes>
     <tags>SDLTridion Tridion SDL SDLWeb DD4T DD4T2 Logging Serilog</tags>
     <dependencies>
-      <dependency id="DD4T.Core" version="2.2.2" />
-      <dependency id="Serilog" version="2.0.0" />
-      <dependency id="Serilog.Settings.AppSettings" version="2.0.0" />
+      <dependency id="DD4T.Core" version="2.5" />
+      <dependency id="Serilog" version="2.6.0" />
+      <dependency id="Serilog.Settings.AppSettings" version="2.1.2" />
     </dependencies>
   </metadata>
 </package>
